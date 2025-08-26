@@ -4,11 +4,14 @@ description: "Descubra la filosofía espiritual Wayist en español - El propósi
 date: 2025-01-25
 draft: false
 ---
+<--
 <div style="float: right; margin: 0 0 1rem 2rem; max-width: 200px;">
 <img src="{{ "images/caminismo_logo.png" | relURL }}" 
      alt="Caminismo el Camino de la Mariposa" 
      style="width: 100%; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
 </div>
+-->
+<img src="/images/caminismo_logo.png" alt="Caminismo el Camino de la Mariposa">
 
 # Bienvenidos a Caminismo
 
