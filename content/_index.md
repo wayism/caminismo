@@ -5,7 +5,7 @@ date: 2025-01-25
 draft: false
 ---
 <div style="float: right; margin: 0 0 1rem 2rem; max-width: 200px;">
-<img src="/images/general/caminismo_logo.png" 
+<img src="caminismo/images/general/caminismo_logo.png" 
      alt="Caminismo el Camino de la Mariposa" 
      style="width: 100%; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
 </div>
@@ -41,7 +41,7 @@ Este sitio web está actualmente en construcción y pronto reflejará completame
 
 Mientras tanto, puede:
 
-- Explorar nuestros **libros traducidos** en la sección [Libros](/libros/)
+- Explorar nuestros **libros traducidos** en la sección [Libros](caminismo/libros/)
 - Unirse a nuestra **comunidad internacional** en [wayist.life](https://wayist.life)
 - Contactarnos en **admin@wayist.life** para más información
 
@@ -50,6 +50,7 @@ Mientras tanto, puede:
 Caminismo está en proceso de registro oficial como marca registrada en México, estableciendo nuestra presencia legal en el mundo hispanohablante para proteger y promover estas enseñanzas auténticas.
 
 ---
+
 
 *"El viaje de mil millas comienza con un solo paso. Su paso hacia elCAMINO comienza aquí."*
 
