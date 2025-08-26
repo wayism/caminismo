@@ -41,6 +41,19 @@ Mientras tanto, puede:
 - Unirse a nuestra **comunidad internacional** en [wayist.life](https://wayist.life)
 - Contactarnos en **admin@wayist.life** para más información
 
+### Desarrollo del Sitio Web y Registro Legal
+
+Este sitio web está actualmente en desarrollo activo en GitHub Pages. Los dominios oficiales **caminismo.com** y **caminismo.net** están registrados y serán activados una vez que:
+
+- El sitio web público esté completamente desarrollado
+- La **Asociación Civil Caminismo A.C.** sea oficialmente registrada en México
+
+Mientras tanto, puede acceder al sitio en desarrollo en: **wayism.github.io/caminismo**
+
+Para consultas sobre el registro legal o el desarrollo del sitio web, contacte: **admin@wayist.life**
+
+---
+
 ## Registro de Marca
 
 Caminismo está en proceso de registro oficial como marca registrada en México, estableciendo nuestra presencia legal en el mundo hispanohablante para proteger y promover estas enseñanzas auténticas.
