@@ -1,0 +1,62 @@
+# Hugo build output
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
+
+# Hugo cache and temporary files
+.hugo_build.lock
+.DS_Store
+
+# Node modules (if using npm)
+node_modules/
+package-lock.json
+
+# Logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Hugo related
+.hugo/
+
+# Temporary folders
+tmp/
+temp/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store?
+ehthumbs.db
+Thumbs.db
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+
+# Hugo theme submodules (if not tracking changes)
+# themes/
+
+# Local development
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
