@@ -5,8 +5,6 @@ date: 2025-01-25
 draft: false
 ---
 
-# Libros Caministas
-
 Descubra nuestra creciente biblioteca de literatura espiritual Caminista, disponible en español para la comunidad hispanohablante.
 
 ## Obras Principales

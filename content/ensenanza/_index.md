@@ -5,8 +5,6 @@ date: 2025-01-25
 draft: false
 ---
 
-# Enseñanza Principal elCAMINO
-
 ## La Naturaleza de la Existencia, el Propósito de la Vida, y el Camino Espiritual
 
 La **Enseñanza Primaria elCAMINO** es el texto fundamental que presenta los principios esenciales de la filosofía espiritual Caminista. Estas enseñanzas ofrecen respuestas claras a las preguntas más profundas de la existencia humana.

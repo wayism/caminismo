@@ -5,8 +5,6 @@ date: 2025-01-25
 draft: false
 ---
 
-# Acerca de Caminismo
-
 ## ¿Qué es Caminismo?
 
 **Caminismo** es la filosofía espiritual conocida mundialmente como **Wayism** - un sendero auténtico de transformación espiritual que ofrece respuestas claras a las preguntas más profundas de la existencia humana.
