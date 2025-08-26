@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ .Site.LanguageCode | default "es" }}">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ .Title }} | {{ .Site.Title }}</title>
+    <title>{{ if .Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
     <meta name="description" content="{{ .Params.description | default .Site.Params.description }}">
     <link rel="stylesheet" href="{{ "css/style.css" | absURL }}">
     <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
@@ -37,7 +37,7 @@
     </main>
     
     <footer>
-        <p>&copy; 2024 Wayism. Ancient wisdom for modern seekers.</p>
+        <p>&copy; 2025 Caminismo. Sabiduría antigua para buscadores modernos.</p>
     </footer>
 </body>
 </html>
