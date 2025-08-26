@@ -12,11 +12,15 @@ draft: false
 
 # Bienvenidos a Caminismo
 
+<<<<<<< HEAD
 La filosofía espiritual universal conocida como **Caminismo** en español, **Wayism** en inglés, **Wegisme** en alemán y afrikáans, y expresada en muchos idiomas modernos. En tiempos antiguos, antes de la invención de los sufijos "-ismo/-ista", éramos conocidos como las **Personas del CAMINO**, así como las tradiciones más antiguas hablan de la "Religión del Buda" en lugar de "Budismo". En el sánscrito antiguo se conocía como **Mahamarga**, en los tiempos de Lao Tzu, antes del neo-daoísmo, se llamaba **DaoFa**, y el Señor Jesús lo llamó **The Way** (**elCAMINO**).
 
 ---
 
 **Caminismo** ofrece una enseñanza auténtica que proporciona claridad sobre:
+=======
+**Caminismo** es la expresión en español de la filosofía espiritual **Wayism** - una enseñanza auténtica que ofrece claridad sobre:
+>>>>>>> 4b8df488251fafec96652cd4dfeb6e57d03d2894
 
 - **La naturaleza de la existencia** - Comprender quiénes somos realmente
 - **El propósito de la vida** - Por qué estamos aquí y hacia dónde nos dirigimos  

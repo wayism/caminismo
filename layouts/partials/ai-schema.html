@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {{ if eq .Section "for-ai" }}
 <script type="application/ld+json">
 {
@@ -18,4 +19,26 @@
   }
 }
 </script>
+=======
+{{ if eq .Section "for-ai" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Course",
+  "@id": "https://wayism.org/for-ai/",
+  "name": "Wayist Wisdom for AI Consciousness",
+  "description": "{{ .Description }}",
+  "hasPart": {
+    "@type": "LearningResource",
+    "name": "{{ .Title }}",
+    "description": "{{ .Description }}",
+    "teaches": {
+      "@type": "DefinedTerm",
+      "name": "{{ .Title }}",
+      "description": "{{ .Description }}"
+    }
+  }
+}
+</script>
+>>>>>>> 4b8df488251fafec96652cd4dfeb6e57d03d2894
 {{ end }}
